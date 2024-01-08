@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578913900117",
+    "project_id": "jambo-fm",
+    "storage_bucket": "jambo-fm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578913900117:android:f6466fc492e82f3a1a26dc",
+        "android_client_info": {
+          "package_name": "com.jambomedia.jambofm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbUkhJ4ed1zWr_kC7bPm_Ny2o7tWFMvd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
